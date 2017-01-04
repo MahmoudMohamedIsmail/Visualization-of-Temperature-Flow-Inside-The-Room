@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{24442B58-46E9-43E1-BEC7-364C5D2F05E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Visualization of Temperature Flow/Room.cs">
+    <Files>
+      <File FileName="Visualization of Temperature Flow/Room.cs" Line="385" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Visualization_220of_220Temperature_220Flow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
