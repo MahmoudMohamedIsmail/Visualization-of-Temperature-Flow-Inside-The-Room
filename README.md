@@ -1,21 +1,20 @@
 # visualize the temperature change inside a room
 
-## The application allows the user to build the room structure by clicking on the room area (panel)
-## such that each click change the clicked cell into one of the following cell types: 
+## The application allows the user to build the room structure by clicking on the room area (panel) such that each click change the clicked cell into one of the following cell types: 
 
-1-Normal Cell 
+* Normal Cell 
 This cell represents default cell room with temperature of Tr. The temperature of this kind of cells is modified, over time, by averaging the temperatures of the rounding cells together with its own temperature. 
 
-2-Cold Cell
+* Cold Cell
 This cell represents an air conditioner that has a permanent temperature of Tc. The temperature of this kind of cells does not change over time. 
 
-3-Heater Cell
+* Heater Cell
 This cell represents a heater that has a permanent temperature of Th. The temperature of this kind of cells does not change over time. 
 
-4-Block Cell
+* Block Cell
 This cell represents a wall that is heat-proof. The temperature of this kind of cells neither changes over time nor affect the surrounding cells.
 
-5-Window Cell
+* Window Cell
 This cell represents a window that has a temperature of Tw. The temperature of this kind of cells does not change over time but affects the surrounding cells over time. This cell shall have a border (or any other mark) to differentiate it from Normal Cell.
 
 
