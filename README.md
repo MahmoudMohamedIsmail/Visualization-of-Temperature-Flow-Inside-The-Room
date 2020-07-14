@@ -1,7 +1,7 @@
-visualize the temperature change inside a room
+## visualize the temperature change inside a room
 
-The application allows the user to build the room structure by clicking on the room area (panel)
-such that each click change the clicked cell into one of the following cell types: 
+# The application allows the user to build the room structure by clicking on the room area (panel)
+# such that each click change the clicked cell into one of the following cell types: 
 
 1-Normal Cell 
 This cell represents default cell room with temperature of Tr. The temperature of this kind of cells is modified, over time, by averaging the temperatures of the rounding cells together with its own temperature. 
